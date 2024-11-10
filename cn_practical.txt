@@ -1,0 +1,53 @@
+1. Demonstrate the different types of topologies and types of
+transmission media by using a
+packet tracer tool.
+
+
+2.Setup a wired LAN using Layer 2 Switch. It includes preparation of
+cable, testing of cable using line tester, configuration machine using
+IP addresses, testing using PING utility and demonstrating the PING
+packets captured traces using Wireshark Packet Analyzer Tool.
+
+
+3. Setup a WAN which contains wired as well as wireless LAN by
+using a packet tracer tool. Demonstrate transfer of a packet from
+LAN 1 (wired LAN) to LAN2 (Wireless LAN).
+
+
+4. Write a program to demonstrate Sub-netting and find subnet
+masks.
+
+
+5. Socket Programming using C/C++/Java.
+a. TCP Client, TCP Server
+b. UDP Client, UDP Server
+
+
+6.Write a program using TCP socket for wired network for following
+a. Say Hello to Each other
+b. File transfer
+
+
+7.Capture packets using Wireshark and accomplish the
+following and save the output in file:
+a. Capture all TCP traffic to/from Facebook, during the
+time when you log in to your Facebook
+account
+b. Capture all HTTP traffic to/from Facebook (other
+website), when you log in to your Facebook
+account
+
+
+
+8.Study and Analyze the performance of HTTP, HTTPS
+and FTP protocol using Packet tracer tool.
+
+
+11 Installing and configuring DHCP server and assign IP
+addresses to client machines using
+DHCP server.
+
+
+12 Write a program for DNS lookup. Given an IP address
+input, it should return URL and vice
+versa.
